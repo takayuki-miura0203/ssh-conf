@@ -1,4 +1,4 @@
-# SSH Conf
+# sshconf
 
 > GUI for SSH config
 
